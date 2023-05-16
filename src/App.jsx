@@ -19,6 +19,7 @@ function App() {
         value={{ count, increase, decrease }}
       >
         <Counter />
+        <Counter />
       </CountContext.Provider>
     </>
   )
