@@ -1,0 +1,21 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  button {
+    border-radius: 4px;
+      height: 40px;
+      color: #fff;
+      background: #c4c4c4;
+      border: 1px solid inherit;
+  }
+  button:hover {
+    color: #fff;
+    background: #DD4B39;
+  }
+  .count {
+    padding: 5px;
+    margin: 5px;
+    font-size: 2em
+  }
