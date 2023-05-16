@@ -2,20 +2,22 @@
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-  button {
+}
+
+.wrapper > button {
     border-radius: 4px;
-      height: 40px;
-      color: #fff;
-      background: #c4c4c4;
-      border: 1px solid inherit;
-  }
-  button:hover {
+    height: 40px;
+    color: #fff;
+    background: #c4c4c4;
+}
+
+button:hover {
     color: #fff;
     background: #DD4B39;
-  }
-  .count {
+}
+.count {
     padding: 5px;
     margin: 5px;
     font-size: 2em
-  }
+}
+  
